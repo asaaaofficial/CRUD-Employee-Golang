@@ -14,8 +14,8 @@ Di dalamnya terdapat fungsi dasar Create, Read, Update, dan Delete (CRUD).
 - HTML sebagai dasar website.
 
 ## 📂Instalasi dan Menjalankan Proyek
-- git clone https://github.com/asaaaofficial/CRUD-Employee-Golang.git
-- cd CRUD-Employee-Golang
+- Download clone di CMD: git clone https://github.com/asaaaofficial/CRUD-Employee-Golang.git
+- Buka folder proyek: cd CRUD-Employee-Golang
 
 ## 📩Kontak
 - E-mail: asaaaofficial@gmail.com
